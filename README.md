@@ -8,6 +8,9 @@
  - The treasure bag and skeleton are from the Dungeon TileSet by Calciumtrice
  - Subduer and Addler are palette swaps and modifications of weapons from Dungeon TileSet by Calciumtrice
  - https://opengameart.org/content/dungeon-tileset-1
- - Calciumtrice can be found on twitter as @Calciumtrice / calciumtrice.tumblr.com. CC-BY 3.0 
+ - Calciumtrice can be found on twitter as @Calciumtrice / calciumtrice.tumblr.com. CC-BY 3.0
+### Mumu
+ - Subuder
+ - https://opengameart.org/content/flare-item-variation-60x60-only
 ### Tracy
  - Mirror by Tracy https://opengameart.org/content/wall-with-mirror CC-BY 3.0
