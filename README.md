@@ -16,3 +16,5 @@
 
 ### PepperRacoon
  - Hermit Hut: https://opengameart.org/content/hut
+### Grumbal
+- Hermit portrait https://opengameart.org/content/adonthell-portraits
