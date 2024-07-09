@@ -10,7 +10,9 @@
  - https://opengameart.org/content/dungeon-tileset-1
  - Calciumtrice can be found on twitter as @Calciumtrice / calciumtrice.tumblr.com. CC-BY 3.0
 ### Mumu
- - Subduer and Addler
- - https://opengameart.org/content/flare-item-variation-60x60-only
+ - Subduer and Addler: https://opengameart.org/content/flare-item-variation-60x60-only
 ### Tracy
  - Mirror by Tracy https://opengameart.org/content/wall-with-mirror CC-BY 3.0
+
+### PepperRacoon
+ - Hermit Hut: https://opengameart.org/content/hut
