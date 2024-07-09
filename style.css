@@ -1,0 +1,74 @@
+
+body {background-color: black; 
+  color: white; 
+font-family: "courier", "monospace"
+}
+
+.battleCard {
+  border: 5px solid white;
+  background: black;
+  color: white;
+  font-family: "courier", "monospace";
+  border-radius: 10px;
+  padding: 10px;
+  margin: 20px;
+}
+
+.redweapon {
+  border: 5px solid red;
+  background: black;
+  color: red;
+  font-family: "courier", "monospace";
+  border-radius: 10px;
+  padding: 10px;
+  margin: 20px;
+}
+
+.redbutton {
+  background: red;
+  color: white;
+  font-family: "courier", "monospace";
+  margin: 5px;
+}
+
+.blueweapon {
+  border: 5px solid blue;
+  background: black;
+  color: blue;
+  font-family: "courier", "monospace";
+  border-radius: 10px;
+  padding: 10px;
+  margin: 20px;
+}
+
+.bluebutton {
+  background: blue;
+  color: white;
+  font-family: "courier", "monospace";
+  margin: 5px;
+}
+
+.map {
+  background: tan;
+  color: #332411;
+  padding: 10px;
+  margin: 20px;
+}
+
+.mapButton {
+  border: 5px solid #AD9574;
+  background: #6B5F4E;
+  color:  #FFDBAB;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 20px;
+}
+
+.mirrorMapButton {
+  border: 5px solid silver;
+   background: black;
+   color: #C0C0C0; 
+  border-radius: 10px;
+  padding: 10px;
+  margin: 20px;
+}
