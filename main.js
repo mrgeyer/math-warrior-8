@@ -159,14 +159,14 @@ function mirrorBattle(level) {
         equationRightSide = [{degree: 1, coefficient: rm},{degree: 0, coefficient: rb}];
     }
     if (level === 6) {
-      let m = Math.ceil(Math.random() * 18 - 9);
+      let m = Math.ceil(Math.random() * 8 - 4);
       if (m === 0) {
         m += 2;
       }
       if (m === 1) {
         m += 2;
       }
-          let rm = Math.ceil(Math.random() * 18 - 9);
+          let rm = Math.ceil(Math.random() * 8 - 4);
       if (rm === m) {
         rm += 1;
       }
@@ -199,7 +199,7 @@ function mirrorBattle(level) {
         }
       buttonText += "</td></tr>";
     }
-          if (Player.MirrorBattlesWon.indexOf(4) > -1) {
+          if (Player.MirrorBattlesWon.indexOf(5) > -1) {
         // Addler Axe
         buttonText += "<tr ><td class='blueweapon'>";
         buttonText += "<img src='https://raw.githubusercontent.com/mrgeyer/math-warrior-adv/main/image/addlerAxe.png' alt='-x' width=50> Addler Axe";
