@@ -1,4 +1,4 @@
-# math-warrior-adv
+# Math Warrior 8
 
 # Credits
 ## Images:
