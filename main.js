@@ -159,7 +159,7 @@ function mirrorBattle(level) {
         equationRightSide = [{degree: 1, coefficient: rm},{degree: 0, coefficient: rb}];
     }
     if (level === 6) {
-      let m = Math.ceil(Math.random() * 8 - 4);
+      let m = Math.ceil(Math.random() * 10 - 5);
       if (m === 0) {
         m += 2;
       }
